@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlingala
+- 👋 Hi, I’m Mounika Lingala
 - 👀 I’m interested in Data Analyst Role
 - 🌱 I’m currently learning BI tools, SQL,Python ,Excel
 - 💞️ I’m looking to collaborate on ...
